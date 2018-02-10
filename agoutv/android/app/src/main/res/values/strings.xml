@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">jDpDU00CVjZun6TWznFyO822Zidf545c5e18-5e5a-4ece-b0e8-6bd8e703cc69</string>
+    <string name="app_name">阿狗TV</string>
+</resources>
